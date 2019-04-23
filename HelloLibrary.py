@@ -1,3 +1,3 @@
-def say_hi(name):
-    return "Hello World " + name
-# print(say_hi(name))
+def say_hi():
+    return "Hello World "
+# print(say_hi())
