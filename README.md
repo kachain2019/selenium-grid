@@ -5,6 +5,15 @@ Selenium Grid ประกอบด้วย 2 Components หลักๆ
 
 ถ้าในเครื่องยังไม่มี JDK ให้ดาวน์โหลดและติดตั้งให้เรียบร้อยก่อนนะครับ
 
+Step to run with Docker compose
+```
+$cd selenium-grid/software/docker
+$docker-compose up -d
+$docker-compose scale chrome=5
+```
+
+Access to Hub via browser  http://localhost:444
+
 ## Resources
 * [JDK](https://justattach.com/justattach/downloads.php)
 
