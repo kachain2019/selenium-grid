@@ -4,4 +4,7 @@ Selenium Grid ประกอบด้วย 2 Components หลักๆ
 2. Node เครื่องที่เราจะไว้ใช้รันเทส ซึ่งจะต้องลงทะเบียนกับ Hub ของเรา และติดตั้ง Web Browser ที่เราต้องการจะใช้รันเทสไว้ด้วยครับ
 
 ถ้าในเครื่องยังไม่มี JDK ให้ดาวน์โหลดและติดตั้งให้เรียบร้อยก่อนนะครับ
-Link JDK : https://justattach.com/justattach/downloads.php
+
+## Resources
+* [JDK](https://justattach.com/justattach/downloads.php)
+
